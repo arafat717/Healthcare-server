@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\profect 2.0\\HealthCare-Server\\logs\\winston\\errors\\.b971174fef7c3dca3d9931eb5d3b1a5631fb550b-audit.json",
+    "files": [
+        {
+            "date": 1713152142914,
+            "name": "C:\\profect 2.0\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-15-04-09-error.log",
+            "hash": "e47a204bc28b1ea952e27423053e5b091b82c4de527ff6ad36a21bf89adf5e69"
+        },
+        {
+            "date": 1713194420040,
+            "name": "C:\\profect 2.0\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-15-04-21-error.log",
+            "hash": "71d3a41e0c3dc43c6792407d6b2d92f7bd477db15d723c1dd84de07a5605d457"
+        },
+        {
+            "date": 1713404286754,
+            "name": "C:\\profect 2.0\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-18-04-07-error.log",
+            "hash": "4f7d3c2a5e7d5b6ef1226f6cb06f7969fd5a11cac79f251945e229b2e9dd4ff4"
+        },
+        {
+            "date": 1713422166048,
+            "name": "C:\\profect 2.0\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-18-04-12-error.log",
+            "hash": "8cdb2dd0db21cd0dcb5efd2992406d59c5ae44aef7d7fdfbd7afc2dda336e9bb"
+        },
+        {
+            "date": 1713675352038,
+            "name": "C:\\profect 2.0\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-21-04-10-error.log",
+            "hash": "b8e5d19303010921abbe5ba24bcfb87bc99414909244fb43a1fca1a46227e320"
+        },
+        {
+            "date": 1713679889185,
+            "name": "C:\\profect 2.0\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-21-04-12-error.log",
+            "hash": "d093ac577d4bb6a07f3a91d2c3d809b00fa7384006436e9c555a2a19b1c77bea"
+        },
+        {
+            "date": 1713777630974,
+            "name": "C:\\profect 2.0\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-22-04-15-error.log",
+            "hash": "da4c8466307f7a93a607f7f80f4d46a5a0623a0ed7b7195f365539040c00edb1"
+        },
+        {
+            "date": 1714103360013,
+            "name": "C:\\profect 2.0\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-26-04-09-error.log",
+            "hash": "0988cee8e967fed414a67d42ce8fb62aba0806f4b8e5a61c665d68c43a4c27d2"
+        },
+        {
+            "date": 1714207473916,
+            "name": "C:\\profect 2.0\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-27-04-14-error.log",
+            "hash": "537e6d3af430293acc99b054a69e93d9664f277ae26fcc4686443dcdb71e0ed1"
+        }
+    ],
+    "hashType": "sha256"
+}
